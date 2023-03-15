@@ -1,0 +1,48 @@
+.editor{
+    /*padding: 0%;
+    padding-right: 0%;
+    color: aliceblue;
+    background-color: #00000086;
+    overflow-y: scroll; 
+    overflow: scroll; */
+    padding: 0%;
+    padding-left: 0%;
+    width: 480px;
+  height: 200px;
+  border: 1px solid black;
+  color: aliceblue;
+    background-color: #000000;
+    overflow-y: scroll; 
+  box-sizing: border-box;
+}
+#top{
+    background-color: black;
+}
+.container{
+    padding: 500px 100px 50px 100px;
+    width:100%;
+    height:100px;
+    padding:20px;
+    display: flex;
+}
+.head{
+    background-color: black;
+}
+.card-header{
+    background-color: black;
+    color: aliceblue;
+}
+.output{
+    color: aliceblue;
+    background-color: #000000;
+}
+h1{
+   color:aliceblue
+}
+#display{
+  width: 100%;
+  height: 500px;
+}
+.t{
+    background-color: #000000;
+}
